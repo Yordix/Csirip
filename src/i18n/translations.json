@@ -1,0 +1,628 @@
+{
+  "hu": {
+    "nav": {
+      "home": "Főoldal",
+      "about": "Rólunk",
+      "gallery": "Galéria",
+      "relax": "Kikapcsolódás",
+      "contact": "Kapcsolat",
+      "blog": "Blog",
+      "booking": "Foglalás"
+    },
+    "common": {
+      "loading": "Betöltés...",
+      "save": "Mentés",
+      "continue": "Tovább",
+      "yes": "igen",
+      "no": "nem",
+      "errorPrefix": "Hiba:",
+      "checking": "Ellenőrzés...",
+      "languageSwitcher": "Nyelvváltó",
+      "prev": "Előző",
+      "next": "Következő"
+    },
+    "home": {
+      "location": "Helyszín",
+      "audience": "Kinek",
+      "capacity": "Kapacitás",
+      "startBooking": "Foglalás indítása",
+      "reviewTitle": "Vendégértékelések",
+      "aboutShort": "Rólunk röviden",
+      "attractions": "Környékbeli látnivalók",
+      "houseFun": "Szórakozás a házban",
+      "gallery": "Galéria",
+      "goAbout": "Tovább a Rólunk oldalra",
+      "goRelax": "Tovább a Kikapcsolódás oldalra",
+      "goGallery": "Tovább a Galéria oldalra",
+      "heroAlt": "Endréd Vendégház enteriőr",
+      "heroTagline": "Aktív kikapcsolódás családoknak a természet szívében",
+      "calmNotice": "Nyugodt, pihenésre fókuszáló vendégház - nem buliszállás",
+      "aboutIntro": "Az Endréd Vendégházat azért hoztuk létre, hogy a Balaton közelében természetközeli, mégis kényelmes pihenést kínáljunk."
+    },
+    "about": {
+      "title": "Rólunk",
+      "area": "Alapterület",
+      "floorplan": "Alaprajz",
+      "village": "Balatonendréd és a ház kapcsolata",
+      "imageAlt": "Vendégház külső"
+    },
+    "gallery": {
+      "title": "Galéria",
+      "subtitle": "Kreatív rácselrendezésű demo galéria, képek és mozgókép-helyőrző.",
+      "videoTitle": "Mozgóképes verzió helye",
+      "videoText": "Ide beágyazható YouTube-, Vimeo- vagy saját házbemutató videó."
+    },
+    "relax": {
+      "title": "Kikapcsolódás",
+      "subtitle": "Aktuális és állandó programok, címkealapú szűréssel.",
+      "all": "mind",
+      "filter": "Szűrés",
+      "allItems": "Összes elem",
+      "tags": {
+        "aktiv": "aktív",
+        "passziv": "passzív",
+        "termeszet": "természet",
+        "epiteszet": "építészet",
+        "jatek": "játék"
+      }
+    },
+    "booking": {
+      "title": "Foglalás",
+      "status": "Foglalás állapota",
+      "open": "nyitott",
+      "closed": "lezárt",
+      "source": "Forrás",
+      "promos": "Akciók",
+      "inquiry": "Foglalási érdeklődés",
+      "name": "Név",
+      "email": "E-mail",
+      "from": "Érkezés",
+      "to": "Távozás",
+      "guests": "Vendégek száma",
+      "promoCode": "Promóciós kód (opcionális)",
+      "send": "Küldés",
+      "occupancy": "Foglaltság"
+    },
+    "contact": {
+      "title": "Kapcsolat",
+      "formTitle": "Kapcsolati űrlap (demo)",
+      "name": "Név",
+      "email": "E-mail",
+      "message": "Üzenet",
+      "send": "Üzenet küldése",
+      "phone": "Telefon",
+      "address": "Cím"
+    },
+    "blog": {
+      "title": "Blog",
+      "more": "Tovább",
+      "published": "Közzétéve"
+    },
+    "admin": {
+      "title": "Adminfelület",
+      "loginTitle": "Admin bejelentkezés",
+      "username": "Felhasználónév",
+      "password": "Jelszó",
+      "login": "Belépés",
+      "loginFirst": "Az adminisztrációhoz előbb jelentkezz be.",
+      "demoInfo": "Demo admin: blogbejegyzés létrehozása, arculati színek és oldalcím módosítása.",
+      "defaultColors": "Alapértelmezett színek",
+      "primary": "Elsődleges",
+      "secondary": "Másodlagos",
+      "accent": "Kiemelő",
+      "background": "Háttér",
+      "text": "Szöveg",
+      "basicData": "Alapadatok",
+      "siteName": "Oldal neve",
+      "newPost": "Új blogbejegyzés",
+      "titleField": "Cím",
+      "excerpt": "Rövid összefoglaló",
+      "content": "Tartalom",
+      "tags": "Címkék vesszővel: család, természet",
+      "imageUrl": "Kép URL",
+      "featured": "Kiemelt",
+      "savePost": "Bejegyzés mentése",
+      "successTheme": "A színek frissítése sikeres volt.",
+      "successMeta": "Az alapadatok frissítése sikeres volt.",
+      "successPost": "A blogbejegyzés létrehozása sikeres volt."
+    },
+    "footer": {
+      "admin": "Admin",
+      "brandLine": "Endréd Vendégház - Balatonendréd"
+    },
+    "test": {
+      "from_admin": "Adminból"
+    },
+    "site": {
+      "capacity": "2-8 fő",
+      "location": "Balatonendréd, Somogy vármegye",
+      "audience": "Családok, kis létszámú baráti társaságok, aktív párok",
+      "title": "Endréd Vendégház",
+      "locationLabel": "Balatonendréd"
+    },
+    "adminMenu": {
+      "title": "Admin",
+      "dashboard": "Dashboard",
+      "stats": "Statisztikák",
+      "billing": "Számlázás",
+      "content": "Tartalom",
+      "localization": "Lokalizáció",
+      "publicSite": "Publikus oldal",
+      "logout": "Kijelentkezés",
+      "images": "Képek"
+    },
+    "notFound": {
+      "title": "404 - Az oldal nem található",
+      "text": "A keresett útvonal nem létezik vagy már nem elérhető.",
+      "backHome": "Vissza a főoldalra"
+    },
+    "adminDashboard": {
+      "title": "Dashboard",
+      "latestStats": "Legutóbbi statisztikák",
+      "noStats": "Nincs még rögzített statisztika.",
+      "latestBilling": "Legutóbbi számlák",
+      "noBilling": "Nincs még rögzített számla.",
+      "kpi": {
+        "blogCount": "Blogbejegyzések",
+        "statCount": "Statisztikai sorok",
+        "billingCount": "Számlázási rekordok",
+        "unpaidCount": "Kintlévő számlák",
+        "totalRevenue": "Beérkezett összeg",
+        "incomeTotal": "Bevétel összesen",
+        "expenseTotal": "Kiadás összesen"
+      },
+      "cols": {
+        "name": "Megnevezés",
+        "value": "Érték",
+        "date": "Dátum",
+        "invoice": "Számlaszám",
+        "partner": "Partner",
+        "category": "Kategória",
+        "amount": "Összeg",
+        "status": "Státusz"
+      }
+    },
+    "adminStats": {
+      "title": "Statisztikák",
+      "newRow": "Új statisztikai sor",
+      "create": "Rögzítés",
+      "savedRows": "Rögzített statisztikák",
+      "successCreate": "Statisztikai sor sikeresen rögzítve.",
+      "cols": {
+        "title": "Megnevezés",
+        "type": "Típus",
+        "value": "Érték",
+        "date": "Dátum",
+        "note": "Megjegyzés"
+      },
+      "placeholder": {
+        "title": "Megnevezés",
+        "type": "Típus (pl. foglalás, bevétel, látogató)",
+        "value": "Érték",
+        "note": "Megjegyzés"
+      }
+    },
+    "adminContent": {
+      "title": "Tartalomkezelés",
+      "themeTitle": "Arculati színek",
+      "siteTitle": "Alapadatok",
+      "siteName": "Oldal neve",
+      "primary": "Elsődleges",
+      "secondary": "Másodlagos",
+      "accent": "Kiemelő",
+      "background": "Háttér",
+      "text": "Szöveg",
+      "newPost": "Új blogbejegyzés",
+      "postTitle": "Cím",
+      "postExcerpt": "Rövid összefoglaló",
+      "postContent": "Tartalom",
+      "postTags": "Címkék vesszővel",
+      "postImage": "Kép URL",
+      "postFeatured": "Kiemelt",
+      "savePost": "Bejegyzés mentése",
+      "successTheme": "Arculati színek frissítve.",
+      "successSite": "Oldal alapadatai frissítve.",
+      "successPost": "Blogbejegyzés létrehozva."
+    },
+    "adminBilling": {
+      "title": "Számlázás",
+      "new": "Új számlázási rekord",
+      "successCreate": "Számlázási rekord sikeresen rögzítve.",
+      "successUpdate": "Számla sikeresen módosítva.",
+      "successDelete": "Számla törölve.",
+      "successStatus": "Számla státusza frissítve.",
+      "fields": {
+        "invoiceNumber": "Számlaszám",
+        "partner": "Partner neve",
+        "category": "Kategória",
+        "amount": "Összeg",
+        "currency": "Valuta",
+        "status": "Státusz",
+        "issuedAt": "Kiállítás dátuma",
+        "dueAt": "Fizetési határidő",
+        "paidAt": "Teljesítés dátuma (paid esetén)",
+        "note": "Megjegyzés"
+      },
+      "placeholder": {
+        "invoiceNumber": "pl. EVH-2026-001",
+        "partner": "Partner neve",
+        "amount": "Összeg",
+        "note": "Megjegyzés"
+      },
+      "actions": {
+        "create": "Rögzítés",
+        "save": "Mentés",
+        "cancel": "Mégse",
+        "edit": "Módosítás",
+        "delete": "Törlés"
+      },
+      "table": {
+        "title": "Számlák",
+        "invoiceNumber": "Számlaszám",
+        "partner": "Partner",
+        "category": "Kategória",
+        "amount": "Összeg",
+        "status": "Státusz",
+        "issuedAt": "Kiállítás",
+        "dueAt": "Határidő",
+        "actions": "Műveletek"
+      },
+      "categories": {
+        "bevetel": "bevétel",
+        "kiadas": "kiadás",
+        "szolgaltatas": "szolgáltatás",
+        "szerviz": "szerviz",
+        "berles": "bérlés",
+        "karbantartas": "karbantartás",
+        "egyeb": "egyéb"
+      }
+    },
+    "adminLocalization": {
+      "title": "Lokalizáció",
+      "subtitle": "Bal oszlop: angol, jobb oszlop: magyar. Új kulcshoz mindkét nyelv kötelező.",
+      "newKey": "Új kulcs felvétele",
+      "keyPlaceholder": "Kulcs (pl. home.hero_title)",
+      "english": "English",
+      "hungarian": "Magyar",
+      "englishPlaceholder": "English text",
+      "hungarianPlaceholder": "Magyar szöveg",
+      "saved": "Mentett kulcsok",
+      "page": "Oldal",
+      "success": "Lokalizációs elem mentve.",
+      "errorRequired": "A kulcs, az angol és a magyar érték kötelező.",
+      "cols": {
+        "key": "Kulcs",
+        "en": "English",
+        "hu": "Magyar"
+      }
+    },
+    "adminImages": {
+      "title": "Képfeltöltés",
+      "uploadTitle": "Új kép feltöltése",
+      "fileLabel": "Képfájl",
+      "uploadAction": "Feltöltés",
+      "uploading": "Feltöltés folyamatban...",
+      "savedTitle": "Feltöltött képek",
+      "empty": "Még nincs feltöltött kép.",
+      "successUpload": "A kép sikeresen feltöltve.",
+      "selectError": "Válassz ki egy képfájlt a feltöltéshez.",
+      "deleteAction": "Törlés",
+      "deleting": "Törlés...",
+      "deleteConfirm": "Biztosan törlöd ezt a képet?",
+      "successDelete": "A kép sikeresen törölve."
+    }
+  },
+  "en": {
+    "nav": {
+      "home": "Home",
+      "about": "About",
+      "gallery": "Gallery",
+      "relax": "Activities",
+      "contact": "Contact",
+      "blog": "Blog",
+      "booking": "Book"
+    },
+    "common": {
+      "loading": "Loading...",
+      "save": "Save",
+      "continue": "Continue",
+      "yes": "yes",
+      "no": "no",
+      "errorPrefix": "Error:",
+      "checking": "Checking...",
+      "languageSwitcher": "Language switcher",
+      "prev": "Previous",
+      "next": "Next"
+    },
+    "home": {
+      "location": "Location",
+      "audience": "For",
+      "capacity": "Capacity",
+      "startBooking": "Start booking",
+      "reviewTitle": "Guest reviews",
+      "aboutShort": "About us in short",
+      "attractions": "Nearby attractions",
+      "houseFun": "In-house activities",
+      "gallery": "Gallery",
+      "goAbout": "Go to About page",
+      "goRelax": "Go to Activities page",
+      "goGallery": "Go to Gallery page",
+      "heroAlt": "Endred Guesthouse interior",
+      "heroTagline": "Active relaxation for families in the heart of nature",
+      "calmNotice": "Calm guesthouse focused on relaxation - not a party accommodation",
+      "aboutIntro": "We created Endréd Guesthouse to offer nature-close yet comfortable relaxation near Lake Balaton."
+    },
+    "about": {
+      "title": "About",
+      "area": "Total area",
+      "floorplan": "Layout",
+      "village": "Balatonendréd and the house",
+      "imageAlt": "Guesthouse exterior"
+    },
+    "gallery": {
+      "title": "Gallery",
+      "subtitle": "Creative demo gallery layout with image and video placeholders.",
+      "videoTitle": "Video showcase placeholder",
+      "videoText": "Embed YouTube, Vimeo or a custom house video here."
+    },
+    "relax": {
+      "title": "Activities",
+      "subtitle": "Current and evergreen activities with tag-based filtering.",
+      "all": "all",
+      "filter": "Filter",
+      "allItems": "All items",
+      "tags": {
+        "aktiv": "active",
+        "passziv": "passive",
+        "termeszet": "nature",
+        "epiteszet": "architecture",
+        "jatek": "games"
+      }
+    },
+    "booking": {
+      "title": "Booking",
+      "status": "Booking status",
+      "open": "open",
+      "closed": "closed",
+      "source": "Source",
+      "promos": "Promotions",
+      "inquiry": "Booking inquiry",
+      "name": "Name",
+      "email": "Email",
+      "from": "Check-in",
+      "to": "Check-out",
+      "guests": "Guests",
+      "promoCode": "Promo code (optional)",
+      "send": "Submit",
+      "occupancy": "Occupancy"
+    },
+    "contact": {
+      "title": "Contact",
+      "formTitle": "Contact form (demo)",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send message",
+      "phone": "Phone",
+      "address": "Address"
+    },
+    "blog": {
+      "title": "Blog",
+      "more": "Read more",
+      "published": "Published"
+    },
+    "admin": {
+      "title": "Admin Dashboard",
+      "loginTitle": "Admin Login",
+      "username": "Username",
+      "password": "Password",
+      "login": "Sign in",
+      "loginFirst": "Please sign in first.",
+      "demoInfo": "Demo admin: create blog posts, update theme colors and site name.",
+      "defaultColors": "Default colors",
+      "primary": "Primary",
+      "secondary": "Secondary",
+      "accent": "Accent",
+      "background": "Background",
+      "text": "Text",
+      "basicData": "Basic data",
+      "siteName": "Site name",
+      "newPost": "New blog post",
+      "titleField": "Title",
+      "excerpt": "Short summary",
+      "content": "Content",
+      "tags": "Tags separated by comma: family, nature",
+      "imageUrl": "Image URL",
+      "featured": "Featured",
+      "savePost": "Save post",
+      "successTheme": "Theme colors updated successfully.",
+      "successMeta": "Site data updated successfully.",
+      "successPost": "Blog post created successfully."
+    },
+    "footer": {
+      "admin": "Admin",
+      "brandLine": "Endred Guesthouse - Balatonendred"
+    },
+    "test": {
+      "from_admin": "From Admin"
+    },
+    "site": {
+      "capacity": "2-8 person",
+      "location": "Balatonendréd, Somogy county",
+      "audience": "Families, friends, active couples",
+      "title": "Endred Guesthouse",
+      "locationLabel": "Balatonendred"
+    },
+    "adminMenu": {
+      "title": "Admin",
+      "dashboard": "Dashboard",
+      "stats": "Statistics",
+      "billing": "Billing",
+      "content": "Content",
+      "localization": "Localization",
+      "publicSite": "Public site",
+      "logout": "Logout",
+      "images": "Images"
+    },
+    "notFound": {
+      "title": "404 - Page not found",
+      "text": "The requested route does not exist or is no longer available.",
+      "backHome": "Back to home"
+    },
+    "adminDashboard": {
+      "title": "Dashboard",
+      "latestStats": "Latest statistics",
+      "noStats": "No statistics recorded yet.",
+      "latestBilling": "Latest invoices",
+      "noBilling": "No invoices recorded yet.",
+      "kpi": {
+        "blogCount": "Blog posts",
+        "statCount": "Statistic rows",
+        "billingCount": "Billing records",
+        "unpaidCount": "Unpaid invoices",
+        "totalRevenue": "Received amount",
+        "incomeTotal": "Total income",
+        "expenseTotal": "Total expenses"
+      },
+      "cols": {
+        "name": "Name",
+        "value": "Value",
+        "date": "Date",
+        "invoice": "Invoice",
+        "partner": "Partner",
+        "category": "Category",
+        "amount": "Amount",
+        "status": "Status"
+      }
+    },
+    "adminStats": {
+      "title": "Statistics",
+      "newRow": "New statistic row",
+      "create": "Create",
+      "savedRows": "Saved statistics",
+      "successCreate": "Statistic row created successfully.",
+      "cols": {
+        "title": "Title",
+        "type": "Type",
+        "value": "Value",
+        "date": "Date",
+        "note": "Note"
+      },
+      "placeholder": {
+        "title": "Title",
+        "type": "Type (e.g. booking, revenue, visitor)",
+        "value": "Value",
+        "note": "Note"
+      }
+    },
+    "adminContent": {
+      "title": "Content management",
+      "themeTitle": "Theme colors",
+      "siteTitle": "Basic data",
+      "siteName": "Site name",
+      "primary": "Primary",
+      "secondary": "Secondary",
+      "accent": "Accent",
+      "background": "Background",
+      "text": "Text",
+      "newPost": "New blog post",
+      "postTitle": "Title",
+      "postExcerpt": "Short summary",
+      "postContent": "Content",
+      "postTags": "Tags separated by comma",
+      "postImage": "Image URL",
+      "postFeatured": "Featured",
+      "savePost": "Save post",
+      "successTheme": "Theme colors updated.",
+      "successSite": "Site base data updated.",
+      "successPost": "Blog post created."
+    },
+    "adminBilling": {
+      "title": "Billing",
+      "new": "New billing record",
+      "successCreate": "Billing record created successfully.",
+      "successUpdate": "Invoice updated successfully.",
+      "successDelete": "Invoice deleted.",
+      "successStatus": "Invoice status updated.",
+      "fields": {
+        "invoiceNumber": "Invoice number",
+        "partner": "Partner name",
+        "category": "Category",
+        "amount": "Amount",
+        "currency": "Currency",
+        "status": "Status",
+        "issuedAt": "Issued date",
+        "dueAt": "Due date",
+        "paidAt": "Paid date (if paid)",
+        "note": "Note"
+      },
+      "placeholder": {
+        "invoiceNumber": "e.g. EVH-2026-001",
+        "partner": "Partner name",
+        "amount": "Amount",
+        "note": "Note"
+      },
+      "actions": {
+        "create": "Create",
+        "save": "Save",
+        "cancel": "Cancel",
+        "edit": "Edit",
+        "delete": "Delete"
+      },
+      "table": {
+        "title": "Invoices",
+        "invoiceNumber": "Invoice",
+        "partner": "Partner",
+        "category": "Category",
+        "amount": "Amount",
+        "status": "Status",
+        "issuedAt": "Issued",
+        "dueAt": "Due",
+        "actions": "Actions"
+      },
+      "categories": {
+        "bevetel": "income",
+        "kiadas": "expense",
+        "szolgaltatas": "service",
+        "szerviz": "service/repair",
+        "berles": "rental",
+        "karbantartas": "maintenance",
+        "egyeb": "other"
+      }
+    },
+    "adminLocalization": {
+      "title": "Localization",
+      "subtitle": "Left column: English, right column: Hungarian. Both are required for a new key.",
+      "newKey": "Add new key",
+      "keyPlaceholder": "Key (e.g. home.hero_title)",
+      "english": "English",
+      "hungarian": "Hungarian",
+      "englishPlaceholder": "English text",
+      "hungarianPlaceholder": "Hungarian text",
+      "saved": "Saved keys",
+      "page": "Page",
+      "success": "Localization item saved.",
+      "errorRequired": "Key, English and Hungarian values are required.",
+      "cols": {
+        "key": "Key",
+        "en": "English",
+        "hu": "Hungarian"
+      }
+    },
+    "adminImages": {
+      "title": "Image upload",
+      "uploadTitle": "Upload new image",
+      "fileLabel": "Image file",
+      "uploadAction": "Upload",
+      "uploading": "Uploading...",
+      "savedTitle": "Uploaded images",
+      "empty": "No uploaded images yet.",
+      "successUpload": "Image uploaded successfully.",
+      "selectError": "Select an image file before upload.",
+      "deleteAction": "Delete",
+      "deleting": "Deleting...",
+      "deleteConfirm": "Are you sure you want to delete this image?",
+      "successDelete": "Image deleted successfully."
+    }
+  }
+}
