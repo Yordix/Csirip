@@ -1,4 +1,7 @@
-﻿const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:4000/api";
+const API_BASE = (
+  import.meta.env.VITE_API_BASE ||
+  (import.meta.env.PROD ? "https://csirip-backend.vercel.app/api" : "http://localhost:4000/api")
+).replace(/\/+$/, "");
 
 async function parseJson(response) {
   if (!response.ok) {
@@ -224,3 +227,4 @@ export async function updateSiteMeta(token, payload) {
   });
   return parseJson(response);
 }
+
